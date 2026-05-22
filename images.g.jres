@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gRAAA/+/v7k9NAPD/Lv/k/v8A8O/yv9He3f//4vL+33Tu/y/i8k7ddO4PL+LyTt107g//4vL+33Tu//Dv8r/R3t3/8P8u/+T+/wAA/+7v7k9NAADw///+4EQAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "boy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
